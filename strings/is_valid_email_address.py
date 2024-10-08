@@ -1,5 +1,5 @@
 """
-Implements an is valid email address algorithm
+Implements a valid email address algorithm
 
 @ https://en.wikipedia.org/wiki/Email_address
 """
